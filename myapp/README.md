@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with React App Assignment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My Goals for this book assignment
 
-## Available Scripts
+## Authors
+Abdul Wasey & Afnan
